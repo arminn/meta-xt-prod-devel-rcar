@@ -45,8 +45,8 @@ common_data:
       url: "https://git.yoctoproject.org/meta-virtualization"
       rev: kirkstone
     - type: git
-      url: "https://github.com/xen-troops/meta-xt-common.git"
-      rev: master
+      url: "https://github.com/arminn/meta-xt-common.git"
+      rev: mr_use_u-boot-bazel
     - type: git
       url: "https://github.com/xen-troops/meta-xt-rcar.git"
       rev: master
